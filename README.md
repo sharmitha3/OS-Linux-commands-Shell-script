@@ -88,21 +88,17 @@ cat > file22
 
 cut -c1-3 file11
 ## OUTPUT
-![output os 4](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/4de8c82f-1b76-4d32-9a4a-fa0808132dc1)
-
-
+![image](https://github.com/user-attachments/assets/7ae36d7d-38f9-4f6e-9800-1850ff7f5c5b)
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
-![output os 5](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/9928dbe7-eda1-481d-b4f4-52e60dd7e78a)
-
+![image](https://github.com/user-attachments/assets/faf84320-76c6-4d95-976f-433c87ad9622)
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-![output os 6](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/7bb724a3-1345-42a0-851d-8a334a1cfafd)
-
+![image](https://github.com/user-attachments/assets/23ed4c3c-ff13-46e0-a310-b3a0651a1acb)
 
 cat < newfile 
 ```
@@ -116,34 +112,29 @@ hello world
  
 grep Hello newfile 
 ## OUTPUT
-![output os 7](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/f22f89b9-c3f2-47b7-834f-e184d8fe38da)
-
+![image](https://github.com/user-attachments/assets/56bde36c-6bbc-4c9c-aa21-d1baa42f70bd)
 
 
 grep hello newfile 
 ## OUTPUT
-![output os 8](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/fbfc5413-1afd-4083-b537-36692b8ad821)
-
-
+![image](https://github.com/user-attachments/assets/9234dfaf-25c9-4b98-b9f8-096ed2bae235)
 
 
 grep -v hello newfile 
 ## OUTPUT
-![output os 9](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/56eb9001-cc39-4450-964a-5f53f01e6ec0)
+![image](https://github.com/user-attachments/assets/bcf5037b-9547-4fe1-b7c9-5abf74c8206d)
 
 
 
 cat newfile | grep -i "hello"
 ## OUTPUT
-![output os 10](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/e4a62690-4115-46b1-b604-5098932fee0a)
-
+![image](https://github.com/user-attachments/assets/c205517e-08ac-4d6e-84e6-1908bfdff56b)
 
 
 
 cat newfile | grep -i -c "hello"
 ## OUTPUT
-![output os 11](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/d00a103e-4fef-4fad-8c84-2d3a59fa3f6c)
-
+![image](https://github.com/user-attachments/assets/40b021d7-08a9-4996-a90d-2ea4643c00e9)
 
 
 
