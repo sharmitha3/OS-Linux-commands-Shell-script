@@ -528,11 +528,13 @@ The $$ is 124
  
 ls file1
 ## OUTPUT
-![Screenshot from 2024-02-26 19-53-14](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/c2ffd586-64f4-4d86-814f-53fd3b966af5)
+![image](https://github.com/user-attachments/assets/ccddbaf4-9f4f-41d7-a064-882b717bddbf)
+
 
 echo $?
 ## OUTPUT 
-![Screenshot from 2024-02-26 19-53-36](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/e004d6ed-48ab-45a6-bfd8-ab8faa8788b5)
+![image](https://github.com/user-attachments/assets/e0a99168-513b-41c3-ac90-ee2d11f4fae9)
+8b5)
 
  
 echo $?
