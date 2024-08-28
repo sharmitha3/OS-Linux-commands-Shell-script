@@ -574,7 +574,7 @@ echo "$val1 is less than $val2"
 fi
 ```
 ## OUTPUT
-![Screenshot from 2024-02-26 20-02-51](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/669c08af-be10-452a-a16b-2d960c674987)
+![image](https://github.com/user-attachments/assets/6df13978-2b58-4852-90f9-3f4a11e0f393)
 
 
 chmod 755 strcomp.sh
@@ -583,6 +583,8 @@ chmod 755 strcomp.sh
 ## OUTPUT
 ```
 baseball is less than hockey
+![image](https://github.com/user-attachments/assets/1fc028f9-1d4b-4633-b03b-20b629c1478c)
+
 ```
 
 
