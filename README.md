@@ -31,7 +31,6 @@ s.n. dasgupta
 sumit chakrobarty
 ^d
 ```
-![image](https://github.com/user-attachments/assets/7508a91f-ea96-420f-906c-d1dbf838c57f)
 
 cat > file2
 ```
@@ -42,18 +41,15 @@ lalit chowdury
 s.n. dasgupta
 ^d  
 ```
-![image](https://github.com/user-attachments/assets/9cc3fd62-653a-4d32-adda-82f48b6ed0c8)
 
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![Screenshot from 2024-02-25 15-23-53](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/4c34dd00-397e-4acd-a459-c859faf65ed2)
-
-
+![image](https://github.com/user-attachments/assets/02a6a667-b7cc-4a19-ac3a-5dc578a5dbc9)
 
 cat < file2
 ## OUTPUT
-![Screenshot from 2024-02-25 15-26-13](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/f64a137d-62da-4bce-ad90-c9dabf82f8e3)
+![image](https://github.com/user-attachments/assets/ea2b522a-68ca-4b0b-bc82-54e5966e4295)
 
 
 # Comparing Files
