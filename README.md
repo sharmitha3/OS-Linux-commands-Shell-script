@@ -55,16 +55,16 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- ![output os 1](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/e28ef4d4-0ed7-431c-b00f-3fe0f44ac8e7)
+![image](https://github.com/user-attachments/assets/b5f3a4df-edec-466d-bef9-722f5c7b28dc)
 
 comm file1 file2
  ## OUTPUT
-![output os 2](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/4f457834-fb32-4be8-8045-f62f3dfdfe09)
+![image](https://github.com/user-attachments/assets/f05c4721-372d-46a3-92e0-699b91c2ad80)
 
  
 diff file1 file2
 ## OUTPUT
-![output os 3](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/54df877d-037e-4d37-99e3-e9fed6774260)
+![image](https://github.com/user-attachments/assets/09040092-3d07-461d-b788-76968a7af7d5)
 
 
 #Filters
