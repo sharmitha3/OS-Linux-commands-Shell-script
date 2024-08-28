@@ -307,41 +307,37 @@ seq 10
 
 seq 10 | sed -n '4,6p'
 ## OUTPUT
-![output os 35](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/a5aa4533-52ef-41ef-88dc-5163706d6ba3)
-
+![image](https://github.com/user-attachments/assets/530fa266-f6f2-4507-8e6a-e6b50dda915e)
 
 
 seq 10 | sed -n '2,~4p'
 ## OUTPUT
-![output os 36](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/67dc5a22-14aa-4adc-8517-bd7cfb63c68e)
-
+![image](https://github.com/user-attachments/assets/e0fd9fc0-278e-4991-9c61-e7011cab09d7)
 
 
 seq 3 | sed '2a hello'
 ## OUTPUT
-![output os 37](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/016e5dcf-ac27-45fc-86e1-6afa139c4cf6)
-
+![image](https://github.com/user-attachments/assets/86213ba0-90dd-4038-b976-0ab7f432fa88)
 
 
 seq 2 | sed '2i hello'
 ## OUTPUT
-![output os 38](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/54518b9c-4627-43ff-83b3-0e18403d5285)
+![image](https://github.com/user-attachments/assets/7110be95-65d7-4134-a73f-54f7301253fe)
 
 
 seq 10 | sed '2,9c hello'
 ## OUTPUT
-![output os 39](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/33c73d05-ef2c-48e1-a8c5-be4979946e86)
+![image](https://github.com/user-attachments/assets/5e3cdfb8-b0b3-4804-ac70-9d4a2731ab76)
 
 
 sed -n '2,4{s/^/$/;p}' file22
 ## OUTPUT
-![output os 40](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/d5ed9af0-a6fa-4950-af0e-c7326f0d23e4)
-
+![image](https://github.com/user-attachments/assets/e784462d-875e-4d91-99f2-5d6799e26705)
 
 
 sed -n '2,4{s/$/*/;p}' file22
 ## OUTPUT
-![output os 41](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/83b645f4-f870-4352-ba30-9556bede4746)
+![image](https://github.com/user-attachments/assets/c63a3945-6ac5-4228-8604-733162add6f4)
 
 
 #Sorting File content
