@@ -31,6 +31,8 @@ s.n. dasgupta
 sumit chakrobarty
 ^d
 ```
+![image](https://github.com/user-attachments/assets/7508a91f-ea96-420f-906c-d1dbf838c57f)
+
 cat > file2
 ```
 anil aggarwal
@@ -40,6 +42,8 @@ lalit chowdury
 s.n. dasgupta
 ^d
 ```
+![image](https://github.com/user-attachments/assets/9cc3fd62-653a-4d32-adda-82f48b6ed0c8)
+
 ### Display the content of the files
 cat < file1
 ## OUTPUT
