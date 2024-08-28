@@ -140,13 +140,16 @@ cat newfile | grep -i -c "hello"
 
 grep -R ubuntu /etc
 ## OUTPUT
-![Screenshot from 2024-02-25 15-31-57](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/b21b7da6-729a-45f1-bec4-ff6b9effd99c)
 
-
-
-grep -w -n world newfile   
+```
+grep -w -n world newfile
+```
+  
 ## OUTPUT
-![output os 13](https://github.com/guru14789/OS-Linux-commands-Shell-script/assets/151705853/aaa267df-6e1f-412b-9f9c-82152a321146)
+```
+1:Hello world
+2:hello world
+```
 
 
 cat < newfile 
