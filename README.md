@@ -40,7 +40,7 @@ barun sengupta
 c.k. shukla
 lalit chowdury
 s.n. dasgupta
-^d
+^d  
 ```
 ![image](https://github.com/user-attachments/assets/9cc3fd62-653a-4d32-adda-82f48b6ed0c8)
 
